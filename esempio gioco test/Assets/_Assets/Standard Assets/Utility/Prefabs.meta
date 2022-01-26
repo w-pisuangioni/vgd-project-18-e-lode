@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: b43a4ef15621158419a2b639f7a98245
+folderAsset: yes
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+=======
+guid: d65f90d03d4776f49be9b6914bc37644
+folderAsset: yes
+timeCreated: 1524725115
+licenseType: Free
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> test-scene

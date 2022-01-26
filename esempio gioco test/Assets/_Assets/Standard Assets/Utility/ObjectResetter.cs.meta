@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 643c971818f68d3439e84b5d8bdafe07
+MonoImporter:
+=======
+guid: afcb91c2626a5f146b4fe2242b6e3d4c
+timeCreated: 1525112344
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+>>>>>>> test-scene
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+<<<<<<< HEAD
+=======
+  assetBundleVariant: 
+>>>>>>> test-scene
