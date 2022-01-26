@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: ee8f8788ac0c08d42aa6fba7f6651bc3
+timeCreated: 1523378755
+=======
+guid: 8648f8ead63dd1e478e0c99c332e4103
+timeCreated: 1521658567
+>>>>>>> Marco
+=======
+guid: 8648f8ead63dd1e478e0c99c332e4103
+timeCreated: 1521658567
+>>>>>>> master
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
