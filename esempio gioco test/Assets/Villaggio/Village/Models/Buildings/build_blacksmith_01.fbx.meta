@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 532f1e2f7b13a4e409e5793c77a504e3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: build_blacksmith_01_fence_02
+    100004: build_blacksmith_01_pillars_01
+    100006: build_blacksmith_01_planks_01
+    100008: build_blacksmith_01_roof_wooden_elements
+    100010: build_blacksmith_01_walls_01
+    100012: build_blacksmith_01_walls_02
+    400000: //RootNode
+    400002: build_blacksmith_01_fence_02
+    400004: build_blacksmith_01_pillars_01
+    400006: build_blacksmith_01_planks_01
+    400008: build_blacksmith_01_roof_wooden_elements
+    400010: build_blacksmith_01_walls_01
+    400012: build_blacksmith_01_walls_02
+    2300000: build_blacksmith_01_fence_02
+    2300002: build_blacksmith_01_pillars_01
+    2300004: build_blacksmith_01_planks_01
+    2300006: build_blacksmith_01_roof_wooden_elements
+    2300008: build_blacksmith_01_walls_01
+    2300010: build_blacksmith_01_walls_02
+    3300000: build_blacksmith_01_fence_02
+    3300002: build_blacksmith_01_pillars_01
+    3300004: build_blacksmith_01_planks_01
+    3300006: build_blacksmith_01_roof_wooden_elements
+    3300008: build_blacksmith_01_walls_01
+    3300010: build_blacksmith_01_walls_02
+    4300000: build_blacksmith_01_pillars_01
+    4300002: build_blacksmith_01_planks_01
+    4300004: build_blacksmith_01_walls_01
+    4300006: build_blacksmith_01_fence_02
+    4300008: build_blacksmith_01_walls_02
+    4300010: build_blacksmith_01_roof_wooden_elements
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Wood_01
+    second: {fileID: 2100000, guid: b2f4e862a52b06e439344ac8c3887bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_build_roof_beams_01
+    second: {fileID: 2100000, guid: 23837ba4bbbc3be4c93178e1d791efa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_build_straw_roof_01
+    second: {fileID: 2100000, guid: d0eb2add72afb6047bc193136b6f29ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_build_straw_roof_cutout_01
+    second: {fileID: 2100000, guid: 8e979f9b72ca5584f8c6604a8a8dc3df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_01
+    second: {fileID: 2100000, guid: 22d5cf7677c1ad74cbc024cbd20c7ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_building_02
+    second: {fileID: 2100000, guid: c3cf5e23ad259fe41bbf5091ec446a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_props_fence_02
+    second: {fileID: 2100000, guid: 31def8eeaa3fdfc42af4e48e709a9c9a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
